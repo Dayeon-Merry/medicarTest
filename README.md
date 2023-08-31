@@ -35,4 +35,5 @@
 - PyTorch
 - YOLOv8
 
-![medicar](https://github.com/leeCodingStudio/Medimate/assets/115694780/633583aa-bbd7-402d-9ea1-bdd9dd178be5)
+![사진31](https://github.com/Dayeon-Merry/Twitter/assets/131240376/54ec1c7d-ff77-4e6e-9825-02f1759b6e8c)
+
