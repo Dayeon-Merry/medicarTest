@@ -35,5 +35,6 @@
 - PyTorch
 - YOLOv8
 
-![사진31](https://github.com/Dayeon-Merry/Twitter/assets/131240376/54ec1c7d-ff77-4e6e-9825-02f1759b6e8c)
+![Untitled (4)](https://github.com/Dayeon-Merry/Dayeon-Merry/assets/131240376/655e1167-d780-46d5-b24b-7eabcfd1bd4f)
+
 
